@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [11.19.3](https://github.com/oxc-project/oxc-resolver/compare/v11.19.2...v11.19.3) - 2026-05-27
+
+### <!-- 1 -->🐛 Bug Fixes
+
+- *(tsconfig)* scope default `**/*` include to the tsconfig directory ([#1161](https://github.com/oxc-project/oxc-resolver/pull/1161)) (by @Boshen)
+
+### Contributors
+
+* @Boshen
+
 ## [11.19.2](https://github.com/oxc-project/oxc-resolver/compare/v11.19.1...v11.19.2) - 2026-05-25
 
 ### <!-- 1 -->🐛 Bug Fixes
